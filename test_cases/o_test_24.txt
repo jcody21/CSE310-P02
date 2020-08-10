@@ -1,0 +1,10 @@
+COMMAND: R
+COMMAND: F 17 9 0
+PATH: 17, 16, 12, 8, 9
+COMMAND: F 9 17 0
+Error: node 17 not reachable from node 9
+COMMAND: F 17 9 1
+LENGTH: 23
+COMMAND: F 9 17 1
+Error: node 17 not reachable from node 9
+COMMAND: S

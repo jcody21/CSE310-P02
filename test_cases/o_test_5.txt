@@ -1,0 +1,10 @@
+COMMAND: R
+COMMAND: F 0 24 0
+Error: one or more invalid nodes
+COMMAND: F 0 25 1
+Error: one or more invalid nodes
+COMMAND: F 1 26 1
+Error: one or more invalid nodes
+COMMAND: F 1 26 0
+Error: one or more invalid nodes
+COMMAND: S

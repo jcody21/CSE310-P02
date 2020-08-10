@@ -1,0 +1,18 @@
+COMMAND: F 17 16 1
+Error: graph not initialized
+COMMAND: F 17 16 0
+Error: graph not initialized
+COMMAND: R
+COMMAND: F 17 16 1
+LENGTH: 13
+COMMAND: F 17 16 0
+PATH: 17, 16
+COMMAND: F 16 17 1
+Error: node 17 not reachable from node 16
+COMMAND: F 16 17 0
+Error: node 17 not reachable from node 16
+COMMAND: F 18 17 0
+Error: node 17 not reachable from node 18
+COMMAND: F 18 17 1
+Error: node 17 not reachable from node 18
+COMMAND: S

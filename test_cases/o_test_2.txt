@@ -1,0 +1,5 @@
+COMMAND: F 1 2 1
+Error: graph not initialized
+COMMAND: F 1 2 0
+Error: graph not initialized
+COMMAND: S

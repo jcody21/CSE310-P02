@@ -1,0 +1,18 @@
+COMMAND: R
+COMMAND: F 2 9 0
+PATH: 2, 8, 9
+COMMAND: F 2 9 1
+LENGTH: 2
+COMMAND: F 9 2 0
+Error: node 2 not reachable from node 9
+COMMAND: F 9 2 1
+Error: node 2 not reachable from node 9
+COMMAND: F 8 9 1
+LENGTH: 1
+COMMAND: F 8 9 0
+PATH: 8, 9
+COMMAND: F 9 8 1
+Error: node 8 not reachable from node 9
+COMMAND: F 9 8 0
+Error: node 8 not reachable from node 9
+COMMAND: S

@@ -1,0 +1,3 @@
+COMMAND: W
+Error: graph not initialized
+COMMAND: S

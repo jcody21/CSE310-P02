@@ -1,0 +1,8 @@
+COMMAND: F 1 2 1
+Error: graph not initialized
+COMMAND: R
+COMMAND: F 1 2 2
+Error: invalid flag value
+COMMAND: F 1 2 -1
+Error: invalid flag value
+COMMAND: S
